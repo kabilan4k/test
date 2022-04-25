@@ -1,0 +1,147 @@
+.sendmessage{
+  border: 1px solid rgb(88, 188, 255);
+  color: white;
+  background-color: rgb(88, 188, 255);
+  margin-top: 20px;
+  width: 30%;
+  padding: 10px;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+  margin-left: 10px;
+}
+.sendmessagedate{
+  margin: 0px;
+  width: 30%;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+  margin-left: 20%;
+  color: gray;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.imageboxdate{
+  margin: 0px;
+  width: 30%;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+  margin-left: 10%;
+  color: gray;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.sendimageboxdate{
+  margin: 0px;
+  width: 30%;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+  margin-left: 10%;
+  color: gray;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.imageboxdate{
+  margin: 0px;
+  width: 30%;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+  margin-left: 70%;
+  color: gray;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.messagebox {
+  
+  border: 1px solid rgb(187, 187, 187);
+  color: black;
+  background-color: rgb(187, 187, 187);
+  margin-top: 10px;
+  margin-left: 65%;
+  width: 30%;
+  padding: 10px;
+  border-radius: 25px;
+  border-bottom-right-radius: 0;
+  
+}
+.messageboxdate{
+  margin: 0px;
+  width: 30%;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+  margin-left: 70%;
+  color: gray;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.textcontainer{
+  margin: 10px;
+}
+.imagesectrion{
+  margin: 10px;
+  background-color: rgb(88, 188, 255);
+  width: 200px;
+  padding: 10px;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+}
+.sendimage{
+  margin: 10px;
+  margin-left: 65%;
+  background-color: rgb(187, 187, 187);
+  width: 200px;
+  padding: 10px;
+  border-radius: 20px;
+  border-bottom-right-radius: 0;
+
+}
+.chatbottom{
+  position: absolute;
+  top: 85%;
+  width: 92%;
+  background-color: gray;
+  margin: 10px;
+  padding: 5px;
+  height: 50px;
+}
+.chatbottom input {
+  padding: 10px;
+  width: 60%;
+  margin-top: 5px;
+  border: 1px transparent;
+  border-radius: 5px;
+}
+.msger-inputarea {
+  display: flex;
+  padding: 10px;
+  border-top: var(--border);
+  background: #eee;
+}
+.msger-inputarea * {
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  font-size: 1em;
+}
+.msger-input {
+  flex: 1;
+  background: #ddd;
+}
+.msger-send-btn {
+  margin-left: 10px;
+  background: rgb(0, 196, 65);
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.23s;
+}
+.msger-send-btn:hover {
+  background: rgb(0, 180, 50);
+}
+.textcontainer {
+  margin: 10px;
+  margin-bottom: 94px;
+}
+form.msger-inputarea {
+  position: fixed;
+  top: 90%;
+  width: 98%;
+}
